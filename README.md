@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kedr1gen
 - 👀 I’m interested in Magic
 - 🌱 I’m currently learning Linux and Python
-- 💞️ I’m looking to collaborate on dataVis
+- 💞️ I’m looking to collaborate on CTFs
 - 📫 How to reach me ...
 
 <!---
